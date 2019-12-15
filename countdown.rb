@@ -5,5 +5,4 @@ def countdown(seconds_to_midnight)
     seconds_to_midnight -= 1
   end
    "HAPPY NEW YEAR!"
-
 end
